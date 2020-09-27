@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="shopping_list_header">MAKE A LIST OF ITEMS TO SHOP</string>
+    <string name="hint_one">No item Selected</string>
+    <string name="hint_two">No item Selected</string>
+    <string name="hint_three">No item Selected</string>
+    <string name="hint_four">No item Selected</string>
+    <string name="hint_five">No item Selected</string>
+    <string name="hint_six">No item Selected</string>
+    <string name="hint_seven">No item Selected</string>
+    <string name="hint_eight">No item Selected</string>
+    <string name="hint_nine">No item Selected</string>
+    <string name="hint_ten">No item Selected</string>
+    <string name="add_item">Add Item</string>
+    <string name="fruits_button_text">Fruits</string>
+    <string name="add_item_header">SELECT ITEMS</string>
+    <string name="beverage_button_text">Beverage</string>
+    <string name="stationery_button_text">Stationery</string>
+    <string name="towel_button_text">Towel</string>
+    <string name="vegetables_button_text">Vegetables</string>
+    <string name="bread_button_text">Bread</string>
+    <string name="phone_button_text">Phone</string>
+    <string name="potatoes_button_text">Potatoes</string>
+    <string name="television_button_text">Television</string>
+    <string name="spaghetti_button_text">Spaghetti</string>
+    <string name="locate_shop">Locate Shop</string>
+    <string name="find_shop_hint">Find a Shop on the Map</string>
+    <string name="clear_list">Clear List</string>
+    <string name="button_clear_list">Clear List</string>
+</resources>
